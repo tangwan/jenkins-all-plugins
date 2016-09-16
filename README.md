@@ -1,4 +1,6 @@
 # jenkins-all-plugins  
+## plugins download url <http://updates.jenkins-ci.org/download/plugins/>
+## extract pluin name ,i use java code.reference [GetPluginsName](GetPluginsName.java)  
 ## How to use it?  
 * clone it to linux ; git clone https://github.com/tangwan/jenkins-all-plugins.git  
 * #download all jenkins plugin into ./all-jenkins-plugins directory,about 1 hour finished,about file size 2Gb.  
